@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inicArregloo", "inicArregloo\inicArregloo.csproj", "{DC3D35BA-2D2B-461E-8851-56ED077B1DC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inicArreglo", "inicArreglo\inicArreglo.csproj", "{8E86CDD6-D124-4948-B392-1496B7C984DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iinicArreglo", "iinicArreglo\iinicArreglo.csproj", "{2E663F6F-8474-4535-9B27-AFE311FABE7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "areglo1", "areglo1\areglo1.csproj", "{6623867D-AB2B-4116-B9DC-B373A7D05AE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "graficoBarras", "graficoBarras\graficoBarras.csproj", "{CB4005AD-908A-48DE-8388-0E1415538AD7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tirarDado", "tirarDado\tirarDado.csproj", "{E2C19E39-096F-4A06-847F-B0C9ABB93434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{0D583C7B-8039-4700-8107-CBD84C8DA5CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC3D35BA-2D2B-461E-8851-56ED077B1DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3D35BA-2D2B-461E-8851-56ED077B1DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3D35BA-2D2B-461E-8851-56ED077B1DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3D35BA-2D2B-461E-8851-56ED077B1DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E86CDD6-D124-4948-B392-1496B7C984DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E86CDD6-D124-4948-B392-1496B7C984DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E86CDD6-D124-4948-B392-1496B7C984DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E86CDD6-D124-4948-B392-1496B7C984DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E663F6F-8474-4535-9B27-AFE311FABE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E663F6F-8474-4535-9B27-AFE311FABE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E663F6F-8474-4535-9B27-AFE311FABE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E663F6F-8474-4535-9B27-AFE311FABE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6623867D-AB2B-4116-B9DC-B373A7D05AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6623867D-AB2B-4116-B9DC-B373A7D05AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6623867D-AB2B-4116-B9DC-B373A7D05AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6623867D-AB2B-4116-B9DC-B373A7D05AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB4005AD-908A-48DE-8388-0E1415538AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB4005AD-908A-48DE-8388-0E1415538AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB4005AD-908A-48DE-8388-0E1415538AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB4005AD-908A-48DE-8388-0E1415538AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C19E39-096F-4A06-847F-B0C9ABB93434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C19E39-096F-4A06-847F-B0C9ABB93434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C19E39-096F-4A06-847F-B0C9ABB93434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C19E39-096F-4A06-847F-B0C9ABB93434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D583C7B-8039-4700-8107-CBD84C8DA5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D583C7B-8039-4700-8107-CBD84C8DA5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D583C7B-8039-4700-8107-CBD84C8DA5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D583C7B-8039-4700-8107-CBD84C8DA5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD5975A5-D766-440A-B120-E398AFA31F6C}
+	EndGlobalSection
+EndGlobal
